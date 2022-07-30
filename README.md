@@ -3,7 +3,7 @@
 
  
 
-- 🌱 atualmente estou estudando TypeScript.
+
 
 <br><br>
 
