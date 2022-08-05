@@ -30,8 +30,8 @@
 <div align="center">
   <a href="https://github.com/wellington-dev">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtondev&layout=compact&langs_count=7&theme=radical"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-dev&layout=compact&langs_count=7&theme=radical"/>
 
-![Snake animation](https://github.com/wellington-dev/blob/output/github-contribution-grid-snake.svg)      
+![Snake animation](https://github.com/wellington-dev/wellington-dev/blob/output/github-contribution-grid-snake.svg)      
 </div>
   
