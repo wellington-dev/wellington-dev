@@ -1,3 +1,4 @@
+<div laign="center">
 <img align="right" width="390em" height="330em"  src="https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, meu nome e wellington</h1>
 
@@ -29,9 +30,12 @@
 
 <div align="center">
   <a href="https://github.com/wellington-dev">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-dev&layout=compact&langs_count=7&theme=radical"/>
-
-![Snake animation](https://github.com/wellington-dev/wellington-dev/blob/output/github-contribution-grid-snake.svg)      
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-dev&layout=compact&langs_count=5&theme=radical"/>
 </div>
+ 
+ ##
+ 
+![Snake animation](https://github.com/wellington-dev/wellington-dev/blob/output/github-contribution-grid-snake.svg)      
+ </div>
   
