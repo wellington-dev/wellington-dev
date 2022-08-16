@@ -3,6 +3,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, meu nome e Wellington</h1>
 
  <br>
+🎓Gruado em análise e Desenvolvimento de Sistemas
+<br>
+👨‍💻Desenvolvedor Front-End
 
 ## 🛠️ tecnologias
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
